@@ -3,7 +3,7 @@
  
 ### Hi there 👋 I am [Bandenawaz Bagwan](#)!
 <!-- <br /> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%237E3ACE&duration=10000&width=800&height=75&lines=I'm+a+Passionate+and+results-driven+Technical+Trainer.;Dedicated+to+empowering+the+next+generation."
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%237E3ACE&duration=10000&width=800&height=75&lines=I'm+a+Passionate+and+results-driven+Technical+Trainer.;Dedicated+to+empowering+next+generation."
 alt="Bandenawaz Bagwan"></a>
 #### My profile overview:
 <br>
